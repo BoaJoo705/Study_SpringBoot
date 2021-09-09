@@ -19,5 +19,4 @@ public class BoardVO {
 	public int getSeq() {
 		return seq;
 	}
-	
 }
